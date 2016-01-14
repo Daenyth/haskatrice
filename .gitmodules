@@ -1,0 +1,3 @@
+[submodule "Cockatrice"]
+	path = Cockatrice
+	url = git@github.com:Cockatrice/Cockatrice.git
